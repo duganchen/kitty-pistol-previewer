@@ -17,7 +17,6 @@ allow_remote_control yes
 Add the following to whatever script sets up your environment (.bashrc, .zshrc, etc):
 
 ```bash
-export VISUAL='code --wait'
 export NNN_FIFO=/tmp/nnn.fifo
 export NNN_PLUG='p:preview-tui'
 export USE_PISTOL=1
