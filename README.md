@@ -23,9 +23,7 @@ alias nnn='nnn -Pp'
 Install the (other) dependencies:
 
 * [pistol](https://github.com/doronbehar/pistol)
-
 * [jq](https://stedolan.github.io/jq/)
-
 * [FFmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer)
 
 Set up your pistol.conf:
