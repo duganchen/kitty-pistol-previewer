@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+thumbnail="$(vidthumb "$1")"
+if [[ ! -f "$thumbnail" ]]; then
+	exit 1
+fi
+kitty +kitten icat --silent --transfer-mode=stream --stdin=no "$thumbnail"
