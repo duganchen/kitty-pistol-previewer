@@ -41,4 +41,4 @@ Copy the two scripts, "vidthumb" and "kitty_vidthumb", to your PATH and make the
 
 And that should be it.
 
-The thumbnail cache and index is in ~/.cache/vidthumb.
+The thumbnail cache and index are in ~/.cache/vidthumb.
