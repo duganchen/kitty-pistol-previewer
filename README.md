@@ -1,6 +1,6 @@
 # kitty-pistol-previewer
 
-A setup to get video thumbnails in [nnn](https://github.com/jarun/nnn) when it's running in [kitty]((https://sw.kovidgoyal.net/kitty/).
+A setup to get video thumbnails in [nnn](https://github.com/jarun/nnn) when it's running in [kitty](https://sw.kovidgoyal.net/kitty/).
 
 Install nnn's "preview-tui" [plugin](https://github.com/jarun/nnn/tree/master/plugins#nnn-plugins).
 
