@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
-thumbnail="$(vidthumb "$1")"
+
+if !thumbnail="$(vidthumb "$1")"; then
+	exit 1
+fi
+
 if [[ ! -f "$thumbnail" ]]; then
 	exit 1
 fi
