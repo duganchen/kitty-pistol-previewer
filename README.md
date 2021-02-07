@@ -2,7 +2,7 @@
 
 
 
-![screenshot.jpg](/home/dugan/Documents/kitty-pistol-previewer/screenshot.jpg)
+![screenshot.jpg](screenshot.jpg)
 
 A setup to get video thumbnails in [nnn](https://github.com/jarun/nnn) when it's running in [kitty](https://sw.kovidgoyal.net/kitty/).
 
